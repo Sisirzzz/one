@@ -766,7 +766,7 @@
             },
             {
                 id: 2,
-                title: 'MacBook Pro 14"',
+                title: 'MacBook Pro"',
                 price: 1999,
                 rating: 4,
                 reviews: 86,
